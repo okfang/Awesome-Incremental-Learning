@@ -11,10 +11,6 @@
 - <a name="todo"></a> Overcoming Catastrophic Forgetting via Model Adaptation (**ICLR2019**) [[paper](https://openreview.net/forum?id=ryGvcoA5YX)] 
 - <a name="todo"></a> A comprehensive, application-oriented study of catastrophic forgetting in DNNs (**ICLR2019**) [[paper](https://openreview.net/forum?id=BkloRs0qK7)] 
 
-### 2019
-- <a name="todo"></a> Efficient Lifelong Learning with A-GEM
- (**ICLR2019**) [[paper](https://arxiv.org/abs/1812.00420)] [[code](https://github.com/facebookresearch/agem)]
-
 ### 2018
 - <a name="todo"></a> Memory Replay GANs: learning to generate images from new categories without forgetting
  (**NIPS2018**) [[paper](https://arxiv.org/abs/1809.02058)] [[code](https://github.com/WuChenshen/MeRGAN)]
